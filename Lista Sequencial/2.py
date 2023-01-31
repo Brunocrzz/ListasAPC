@@ -3,6 +3,7 @@ x = input()
 y = input()
 z = input()
 
+
 print(f'{x}{y}{z}')
 print(x)
 print(f'{2*y}')
